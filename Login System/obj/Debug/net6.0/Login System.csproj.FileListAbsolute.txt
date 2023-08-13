@@ -1,0 +1,18 @@
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.csproj.AssemblyReference.cache
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.AssemblyInfoInputs.cache
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.AssemblyInfo.cs
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.csproj.CoreCompileInputs.cache
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\Login System.exe
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\Login System.deps.json
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\Login System.runtimeconfig.json
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\Login System.dll
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\Login System.pdb
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\BCrypt.Net.dll
+C:\Users\FsFs3mk\source\repos\Login System\Login System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.csproj.CopyComplete
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.dll
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\refint\Login System.dll
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.pdb
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\Login System.genruntimeconfig.cache
+C:\Users\FsFs3mk\source\repos\Login System\Login System\obj\Debug\net6.0\ref\Login System.dll
