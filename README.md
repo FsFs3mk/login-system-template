@@ -1,4 +1,4 @@
 # login-system-template
-login system template in c# made for fun/bcs i was too bored
+login system template with a json db made for fun/bcs i was too bored
 
-oh and users.json is in the bin folder
+the one in python is perfect but the one in c# needs better logic
